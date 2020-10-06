@@ -80,7 +80,6 @@ Legend:
 
 1. **Tile type**: Shows what type of tile it is ("Send an email," "Wait for," "Phone call," and so on). The icon inside the tile also indicates the tile type.
 1. **Entity name**: Shows the name assigned to a selected entity, for example, the name of the email ("Contoso Chairs").
-1. **Tile status**: Shows key statistics about the tile, such as how many contacts are waiting here or how many messages it has sent so far. The information shown varies by tile type. This information only displays when a customer journey is live.
 1. **Tile configuration status**: Shows if the tile is configured already or not. The unconfigured status is indicated by a white-colored tile with a call to action (for example, "Choose an email"). A configured status is indicated by a colored tile with the selected entity name.
 
 > [!NOTE]
